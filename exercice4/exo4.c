@@ -1,4 +1,4 @@
-                                                                                                                                                                          void myputstr(const char str[])                                                                                              
+void myputstr(const char str[])                                                                                              
  {  
                                                                                                                                                                          
  int i = 0;                                                                                                                                                                                                                                                                                                                                   
